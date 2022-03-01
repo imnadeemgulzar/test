@@ -1,0 +1,44 @@
+.container{
+    background-color: darkgrey;
+    color: darkslategrey;
+    padding: 50px;
+    height: 100vh;
+}
+.container h1{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.book-list{
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.booklist_heading th{
+    padding: 10px 60px;
+
+}
+.bk-fields{
+    font-size: 80%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+#submit{
+    margin-top: 20px;
+}
+
+#bk-table{ 
+    font-size: 20px;
+    padding: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.error{
+    color: black;
+    background-color: red;
+}
+.success{
+    color: black;
+    background-color: green;
+}
